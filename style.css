@@ -1,0 +1,95 @@
+/* CSS Document */
+
+#header1
+{
+position:relative;
+height:53px;
+width:1005px; 
+background-image:url(heading1.gif); 
+background-repeat: repeat-x;
+}
+
+#header2
+{
+position:relative;
+height:245px;
+width:1005px; 
+background-image:url(heading2.gif); 
+background-repeat: repeat-x;
+}
+
+#footer
+{
+position:relative;
+height:258px;
+width:1005px; 
+background-image:url(footer.gif); 
+}
+
+#main
+{
+position:relative;
+height:311px;
+width:1005px; 
+background-image:url(main.gif); 
+background-repeat: repeat-x;
+}
+
+.textbox
+{
+width:150px; 
+height:16px; 
+position:absolute; 
+border-color:#9BD252; 
+border-bottom-width:thin; 
+border-left-width:thin; 
+border-right-width:thin; 
+border-right-width:thin; 
+border-top-width:thin;
+}
+
+.search
+{
+position:absolute;
+border-color:#9BD252;
+border-bottom-width:thin;
+border-left-width:thin;
+border-right-width:thin;
+border-right-width:thin;
+border-top-width:thin;
+width: 396px;
+font-size:20px;
+}
+
+.h1
+{ font-size:36px;
+color:#FF0000;
+}
+
+.select
+{
+position:absolute; 
+border-color:#9BD252; 
+border-bottom-width:thin; 
+border-left-width:thin; 
+border-right-width:thin; 
+border-right-width:thin; 
+border-top-width:thin;
+}
+
+#body
+{
+margin-bottom:0px;
+margin-left:0px;
+margin-top:0px;
+text-align:center;
+}
+
+.wrapper {
+margin: 0 auto;
+width: 1005;
+text-align:left;
+}
+
+/*top:13px; 
+right:700px; 
